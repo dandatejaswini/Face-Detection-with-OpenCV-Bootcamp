@@ -16,7 +16,7 @@ This is a **Bootcamp project**, where we implemented a Python script to detect f
 
 ## How to Run the Code
 1. Clone the repository:
-   git clone https://github.com/YourUsername/Face-Detection-with-OpenCV-Bootcamp.git
+   git clone https://github.com/dandatejaswini/Face-Detection-with-OpenCV-Bootcamp.git
 2. Navigate to the project folder:
    cd Face-Detection-with-OpenCV-Bootcamp
 3. Install required libraries (if not already installed):
